@@ -1,6 +1,6 @@
 # Abhi_simon
 ### [Live site](https://abhi7836.github.io/Abhi_simon/)
-![Screenshot](image_prev.png
+![Screenshot](image_prev.png)
 
 # This is a simon game a random colour block blinks you should press same block from starting pattern
 ### eg there are 4 blocks G,R,Y,B 
